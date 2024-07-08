@@ -1,0 +1,6 @@
+[theme]
+base="light" # 或者 "dark"
+backgroundColor="white"
+secondaryBackgroundColor="pink"
+textColor="black"
+
